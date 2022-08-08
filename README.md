@@ -25,5 +25,5 @@ printf.c printf a file containing the _printf function and get function
 main.h contains function and struct declaration
 
 #AUTHORS 
-Mihreteab Ghebregzabher
-Leule Haylay
+#Mihreteab Ghebregzabher
+#Leule Haylay
